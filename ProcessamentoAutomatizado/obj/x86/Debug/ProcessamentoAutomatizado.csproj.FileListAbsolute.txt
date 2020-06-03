@@ -1,0 +1,5 @@
+/home/ph_silva/Documentos/Processamento automatizado de contratos/ProcessamentoAutomatizado/ProcessamentoAutomatizado/bin/Debug/ProcessamentoAutomatizado.exe
+/home/ph_silva/Documentos/Processamento automatizado de contratos/ProcessamentoAutomatizado/ProcessamentoAutomatizado/bin/Debug/ProcessamentoAutomatizado.pdb
+/home/ph_silva/Documentos/Processamento automatizado de contratos/ProcessamentoAutomatizado/ProcessamentoAutomatizado/obj/x86/Debug/ProcessamentoAutomatizado.csprojAssemblyReference.cache
+/home/ph_silva/Documentos/Processamento automatizado de contratos/ProcessamentoAutomatizado/ProcessamentoAutomatizado/obj/x86/Debug/ProcessamentoAutomatizado.exe
+/home/ph_silva/Documentos/Processamento automatizado de contratos/ProcessamentoAutomatizado/ProcessamentoAutomatizado/obj/x86/Debug/ProcessamentoAutomatizado.pdb
